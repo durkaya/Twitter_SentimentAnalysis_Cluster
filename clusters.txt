@@ -1,0 +1,350 @@
+brand 1 negative
+
+Cluster 0:
+ music
+ apple
+ spotify
+ shit
+ single
+ just
+ fuck
+Cluster 1:
+ payout
+ prep
+ offset
+ shareholder
+ disappointment
+ massive
+ said
+Cluster 2:
+ stock
+ applessss
+ akira
+ release
+ dark
+ wall
+ street
+Cluster 3:
+ gb
+ iphone
+ black
+ ebay
+ unlocked
+ grey
+ space
+Cluster 4:
+ apple
+ watch
+ green
+ iphone
+ bad
+ just
+ like
+
+
+ brand 2 negative
+
+ Cluster 0:
+ shit
+ samsungmobilein
+ people
+ samsung
+ really
+ iphone
+ like
+Cluster 1:
+ gt
+ galaxy
+ mobile
+ bad
+ active
+ root
+ gb
+Cluster 2:
+ cs
+ spigen
+ day
+ amazon
+ deal
+ case
+ galaxy
+Cluster 3:
+ samsung
+ galaxy
+ fix
+ camera
+ failed
+ tv
+ phone
+Cluster 4:
+ gb
+ black
+ rs
+ galaxy
+ sm
+ samsung
+ unlocked
+
+
+ brand 3 negative
+
+ Cluster 0:
+ sanctions
+ iran
+ huaweis
+ vision
+ dci
+ clearer
+ wtf
+Cluster 1:
+ phone
+ iphone
+ review
+ huawei
+ pro
+ galaxy
+ want
+Cluster 2:
+ huawei
+ black
+ pro
+ lite
+ gb
+ amp
+ mobile
+Cluster 3:
+ bases
+ military
+ zte
+ pentagon
+ phones
+ bans
+ stores
+Cluster 4:
+ cracks
+ app
+ wallet
+ trading
+ adds
+ store
+ china
+
+
+ brand 4 negative
+
+ Cluster 0:
+ xiaomi
+ xiaomiindia
+ mi
+ firm
+ smartphone
+ valuation
+ ipo
+Cluster 1:
+ patent
+ infringement
+ sued
+ alleged
+ ahead
+ blockbuster
+ ipo
+Cluster 2:
+ black
+ gb
+ redmi
+ shark
+ xiaomi
+ cover
+ note
+Cluster 3:
+ expected
+ billion
+ public
+ update
+ ipo
+ kong
+ hong
+Cluster 4:
+ miui
+ push
+ dev
+ team
+ based
+ happy
+ im
+
+
+ brand 1 positives
+
+ Cluster 0:
+ itunes
+ music
+ applemusic
+ spotify
+ movies
+ instrumental
+ apple
+Cluster 1:
+ free
+ apple
+ iphone
+ environmentally
+ friendly
+ shipping
+ devices
+Cluster 2:
+ music
+ spotify
+ apple
+ video
+ youtube
+ liked
+ playlist
+Cluster 3:
+ app
+ tv
+ free
+ google
+ apple
+ karaoke
+ carpool
+Cluster 4:
+ apple
+ new
+ iphone
+ watch
+ best
+ win
+ ipad
+
+
+ brand 2 positives
+
+ Cluster 0:
+ price
+ shipping
+ amp
+ free
+ freaking
+ freakyfwoof
+ fortnitegame
+Cluster 1:
+ samsung
+ galaxy
+ tv
+ smart
+ giving
+ mobile
+ gear
+Cluster 2:
+ case
+ galaxy
+ samsung
+ cover
+ free
+ plus
+ edge
+Cluster 3:
+ new
+ galaxy
+ samsung
+ samsungs
+ phones
+ pro
+ gb
+Cluster 4:
+ youtube
+ video
+ liked
+ galaxy
+ samsung
+ switching
+ im
+
+
+ brand 3 positives
+
+Cluster 0:
+ huawei
+ pro
+ new
+ lite
+ app
+ cryptocurrency
+ phone
+Cluster 1:
+ entered
+ win
+ pro
+ liked
+ youtube
+ video
+ mate
+Cluster 2:
+ installed
+ pre
+ store
+ releases
+ bitcoin
+ new
+ wallet
+Cluster 3:
+ shipping
+ delivery
+ days
+ free
+ stars
+ honor
+ smartphone
+Cluster 4:
+ offer
+ crypto
+ latest
+ smartphones
+ wallet
+ app
+ huawei
+
+
+ brand 4 positives
+
+Cluster 0:
+ bringing
+ home
+ devices
+ smart
+ phones
+ google
+ assistant
+Cluster 1:
+ xiaomi
+ mi
+ redmi
+ new
+ video
+ note
+ youtube
+Cluster 2:
+ pad
+ mouse
+ woodiness
+ item
+ protecting
+ original
+ stars
+Cluster 3:
+ delivery
+ stars
+ reviews
+ days
+ shipping
+ free
+ wifi
+Cluster 4:
+ original
+ tv
+ stars
+ delivery
+ mi
+ days
+ air
